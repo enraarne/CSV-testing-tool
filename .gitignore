@@ -1,4 +1,9 @@
 data/
 .ipynb_checkpoints/
 Draft.ipynb
+concurrency.py
+concurrency2.py
+key_maker.py
+output.txt
+__pycache__
 
